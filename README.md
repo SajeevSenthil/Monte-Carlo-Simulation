@@ -99,7 +99,25 @@ Notes:
 - The included IS implementation uses a tail-driven, moderated mixture proposal that keeps a fraction of mass on the baseline distribution to stabilize weights. This produced a small but measurable efficiency improvement in the included run (RE ≈ 1.06×).
 - To push IS further: expand the pilot grid, consider control variates or adaptive tempering, and explore multi-dimensional correlated proposals.
 
-## License & Contact
+## **Contributors**
 
-This repository is for research and demonstration. If you'd like help packaging results, adding unit tests, or preparing a report, open an issue or contact the author.
-# Monte-Carlo-Simulation
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/SajeevSenthil?s=300" width="100" alt="Sajeev Senthil" /><br/>
+      <a href="https://github.com/SajeevSenthil"><b>Sajeev Senthil</b></a>
+    </td>
+        <td align="center">
+      <img src="https://avatars.githubusercontent.com/hari23228?s=300" width="100" alt="Hari Varthan" /><br/>
+      <a href="https://github.com/hari23228"><b>Hari Varthan</b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/FightKlub?s=300" width="100" alt="DJR" /><br/>
+      <a href="https://github.com/FightKlub"><b>Dennis Jerome Richard </b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/Jopan?s=300" width="100" alt="Jopan" /><br/>
+      <a href="https://github.com/Jopan"><b>Joseph Binu George</b></a>
+    </td>
+  </tr>
+</table>

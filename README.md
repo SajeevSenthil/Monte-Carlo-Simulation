@@ -51,11 +51,11 @@ SMC AoA distribution (inside this folder):
 
 Advanced IS distribution (referenced from workspace root):
 
-![Advanced IS distribution](../is.png)
+![Advanced IS distribution](is.png)
 
 Comparison dashboard (overview):
 
-![Comparison dashboard](../comparision.png)
+![Comparison dashboard](comparision.png)
 
 If any of the images render as broken links, move them into the `Monte-Carlo-Simulation/` directory and change the paths above to `./is.png` and `./comparision.png`.
 
